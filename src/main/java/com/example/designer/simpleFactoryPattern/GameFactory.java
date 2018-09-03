@@ -1,4 +1,4 @@
-package com.example.designer.factoryPattern;
+package com.example.designer.simpleFactoryPattern;
 
 import org.springframework.stereotype.Component;
 import org.springframework.util.StringUtils;

@@ -1,4 +1,4 @@
-package com.example.designer.factoryPattern;
+package com.example.designer.simpleFactoryPattern;
 
 public class DOTA implements Game {
     @Override
